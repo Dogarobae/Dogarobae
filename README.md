@@ -14,10 +14,10 @@ I focus on web application development, local AI model integration, and security
 
 ### 🛠️ Tech Stack & Tools
 
-* **Languages:** JavaScript, Python, Java, Bash
+* **Languages:** JavaScript, Python, Java, Bash, C, C#
 * **Web & Backend Development:** Node.js, Express, HTML5/CSS3
 * **Cybersecurity & Systems:** Linux (Kali Linux / Debian), Docker, Operational Security, Web Security Auditing
-* **AI & LLMs:** Local Model Integration (Ollama / Qwen)
+* **AI & LLMs:** Local Model Integration (Ollama / Qwen / Dolphin)
 
 ---
 
